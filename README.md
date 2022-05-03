@@ -10,3 +10,12 @@ This is a MERN stack single-page web application to help developers communicate 
 npm install
 
 ```
+
+## Install Client Dependencies
+
+```
+cd client
+npm install
+
+```
+
