@@ -19,3 +19,9 @@ npm install
 
 ```
 
+## Start Development Environment
+
+```
+npm run dev
+
+```
