@@ -8,22 +8,28 @@ The project is developed using the Node.js runtime environment which allows us t
 
 | Second Header |
 | ------------- |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
+| HTML  |
+| CSS  |
+| JavaScript  |
+| Node.js  |
+| Express.js  |
+| MongoDB  |
+| Postman  |
+| Redux  |
+| Moment  |
+| Axios  |
+| UUID  |
+| Web-vitals  |
+| React.js  |
+| Bcrypt.js  |
+| Config  |
+| Express-validator  |
+| Gravatar  |
+| JWN  |
+| Mongoose  |
+| Request  |
+| Nodemon  |
+| Concurrently  |
 
 
 # Start
