@@ -30,29 +30,29 @@ npm run dev
 
 * Register
 * Login
-Create profile
-Add education
-Add experience
-Add skills
-Add twitter profile
-Add Facebook profile
-Add YouTube profile
-Add business website
-View all posts
-Create post
-View specific post
-Comment on a post
-Like comment
-Unlike comment
-Delete own comment
-Delete own post
-View all profiles
-View specific profile
-Delete account
-Edit profile
-Delete experience
-Delete education
-Link GitHub repositories
+* Create profile
+* Add education
+* Add experience
+* Add skills
+* Add twitter profile
+* Add Facebook profile
+* Add YouTube profile
+* Add business website
+* View all posts
+* Create post
+* View specific post
+* Comment on a post
+* Like comment
+* Unlike comment
+* Delete own comment
+* Delete own post
+* View all profiles
+* View specific profile
+* Delete account
+* Edit profile
+* Delete experience
+* Delete education
+* Link GitHub repositories
 
 
 
