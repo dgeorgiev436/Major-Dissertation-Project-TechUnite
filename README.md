@@ -29,7 +29,7 @@ npm run dev
 ## Features
 
 * Register
-Login
+* Login
 Create profile
 Add education
 Add experience
